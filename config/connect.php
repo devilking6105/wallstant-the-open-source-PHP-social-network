@@ -1,5 +1,5 @@
 <?php
-$servername = "github";
+$servername = "localhost";
 $username = "devilking6105";
 $password = "Cale1223@";
 $dbname = "wallstant";

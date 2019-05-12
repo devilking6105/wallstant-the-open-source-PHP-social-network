@@ -1,7 +1,7 @@
 <?php
-$servername = "localhost";
-$username = "root";
-$password = "";
+$servername = "github";
+$username = "devilking6105";
+$password = "Cale1223@";
 $dbname = "wallstant";
 
 try 
